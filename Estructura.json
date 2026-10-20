@@ -1,0 +1,220 @@
+[
+{
+    "Titulo":"Aprendiendo java",
+
+    "Autor": {
+        "Nombre":"Juan",
+        "Nombre2":"Jose",
+        "Apellido":"Longo",
+        "Apodo":"Gordo",
+        "Fechadenacimiento":"06/08/2006",
+        "Genero":"Masculino",
+        "Año":20
+        },
+
+    "Año": {
+        "Nacimiento":2024,
+        "Publicado":2025
+    },
+    
+    "Genero": {
+        "Programacion":"Inicial",
+        "Educativo":"Sena",
+        "Tegnologia":"Desarolladores"
+    }
+},
+{
+    "Titulo":"Aprendiendo MySQL",
+
+    "Autor": {
+        "Nombre":"Juan",
+        "Nombre2":"David",
+        "Apellido":"Longo",
+        "Apodo":"Flaco",
+        "Fechadenacimiento":"19/09/2008",
+        "Genero":"Masculino",
+        "Año":18
+        },
+
+    "Año": {
+        "Nacimiento":2018,
+        "Publicado":2025
+    },
+    
+    "Genero": {
+        "Programacion":"Inicial",
+        "Educativo":"Sena",
+        "Tegnologia":"Desarolladores"
+    }
+},
+{
+    "Titulo":"Aprendiendo HTML",
+
+    "Autor": {
+        "Nombre":"Maria",
+        "Nombre2":"Jose",
+        "Apellido":"Longo",
+        "Apodo":"reyna",
+        "Fechadenacimiento":"05/04/2012",
+        "Genero":"Masculino",
+        "Año":14
+        },
+
+    "Año": {
+        "Nacimiento":2014,
+        "Publicado":2019
+    },
+    
+    "Genero": {
+        "Programacion":"Inicial",
+        "Educativo":"Sena",
+        "Tegnologia":"Desarolladores"
+    }
+},
+{
+    "Titulo":"Aprendiendo python",
+
+    "Autor": {
+        "Nombre":"Sebastia",
+        "Nombre2":"Andres",
+        "Apellido":"Longo",
+        "Apodo":"Entrenador",
+        "Fechadenacimiento":"06/08/2006",
+        "Genero":"Masculino",
+        "Año":20
+        },
+
+    "Año": {
+        "Nacimiento":2016,
+        "Publicado":2022
+    },
+    
+    "Genero": {
+        "Programacion":"Obcional",
+        "Educativo":"Sena",
+        "Tegnologia":"Desarolladores"
+    }
+},
+{
+    "Titulo":"Aprendiendo PostgreSQL",
+
+    "Autor": {
+        "Nombre":"Luis",
+        "Nombre2":"Eduaro",
+        "Apellido":"Alpala",
+        "Apodo":"Lucho",
+        "Fechadenacimiento":"06/08/2006",
+        "Genero":"Masculino",
+        "Año":20
+        },
+
+    "Año": {
+        "Nacimiento":2019,
+        "Publicado":2026
+    },
+    
+    "Genero": {
+        "Programacion":"intelectual",
+        "Educativo":"Sena",
+        "Tegnologia":"Desarolladores"
+    }
+},
+{
+    "Titulo":"Aprendiendo java",
+
+    "Autor": {
+        "Nombre":"Juan",
+        "Nombre2":"Jose",
+        "Apellido":"Longo",
+        "Apodo":"Gordo",
+        "Fechadenacimiento":"06/08/2006",
+        "Genero":"Masculino",
+        "Año":20
+        },
+
+    "Año": {
+        "Nacimiento":2015,
+        "Publicado":2020
+    },
+    
+    "Genero": {
+        "Programacion":"insesivo",
+        "Educativo":"Sena",
+        "Tegnologia":"Desarolladores"
+    }
+},
+{
+    "Titulo":"Aprendiendo java",
+
+    "Autor": {
+        "Nombre":"Natalia",
+        "Nombre2":"Jose",
+        "Apellido":"Longo",
+        "Apodo":"Inteligente",
+        "Fechadenacimiento":"06/08/2006",
+        "Genero":"Masculino",
+        "Año":20
+        },
+
+    "Año": {
+        "Nacimiento":2024,
+        "Publicado":2025
+    },
+    
+    "Genero": {
+        "Programacion":"profesional",
+        "Educativo":"Sena",
+        "Tegnologia":"Desarolladores"
+    }
+},
+{
+    "Titulo":"Aprendiendo java",
+
+    "Autor": {
+        "Nombre":"Ana",
+        "Nombre2":"Maria",
+        "Apellido":"Longo",
+        "Apodo":"Divertida",
+        "Fechadenacimiento":"06/08/2006",
+        "Genero":"Masculino",
+        "Año":20
+        },
+
+    "Año": {
+        "Nacimiento":2020,
+        "Publicado":2026
+    },
+    
+    "Genero": {
+        "Programacion":"astro",
+        "Educativo":"Sena",
+        "Tegnologia":"Desarolladores"
+    }
+},
+{
+    "Titulo":"Aprendiendo java",
+
+    "Autor": {
+        "Nombre":"Edwin",
+        "Nombre2":"Pacheco",
+        "Apellido":"Otavaro",
+        "Apodo":"Pache",
+        "Fechadenacimiento":"06/08/2006",
+        "Genero":"Masculino",
+        "Año":20
+        },
+
+    "Año": {
+        "Nacimiento":2026,
+        "Publicado":2024
+    },
+    
+    "Genero": {
+        "Programacion":"admin",
+        "Educativo":"Sena",
+        "Tegnologia":"Desarolladores"
+    }
+}
+
+
+]
